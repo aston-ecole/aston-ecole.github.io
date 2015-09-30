@@ -1,0 +1,28 @@
+form div{
+	text-align:left;
+	margin: 10px 10px 10px 10px;
+	background-color: #E2E2E2;
+	color: black;
+	
+}
+form div li{
+	list-style-type : none;
+}
+#presentation{
+	list-style-type : none;
+	float: left;
+	margin-top:auto;
+	margin-left:auto;
+	width:100%;
+}
+#presentation li{
+	background-color: rgba(181, 119, 37, 0.72);
+	border: 1px solid black;
+	width: 40%;
+	display: inline-block;
+	border-radius: 8px;
+	padding: 10px 10px 10px 10px;
+	font-family: verdana;
+	font-weight: bold;
+	margin: 10px;
+}
