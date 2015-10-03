@@ -16,7 +16,6 @@ form div li{
 	width:100%;
 }
 #presentation li{
-	background-color: rgba(181, 119, 37, 0.72);
 	border: 1px solid black;
 	width: 25%;
 	display: inline-block;
