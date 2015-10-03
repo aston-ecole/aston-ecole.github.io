@@ -25,3 +25,6 @@ form div li{
 	font-weight: bold;
 	margin: 10px;
 }
+.mobile{
+	display: inline-block;
+}
